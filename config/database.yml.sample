@@ -1,0 +1,5 @@
+development:
+  adapter:    postgresql
+  database:   'lapis-rails_development'
+  host:       localhost
+  reconnect:  true
